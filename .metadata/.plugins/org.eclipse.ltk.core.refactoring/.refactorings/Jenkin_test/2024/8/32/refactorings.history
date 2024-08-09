@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;JenkinTest.java&apos; to &apos;Jenkin_test/src/demo&apos;&#x0D;&#x0A;- Original project: &apos;Jenkin_test&apos;&#x0D;&#x0A;- Destination element: &apos;Jenkin_test/src/demo&apos;&#x0D;&#x0A;- Original element: &apos;JenkinTest.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;demo" element1="/src&lt;{JenkinTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1723215180327" units="1" version="1.0"/>
+</session>
